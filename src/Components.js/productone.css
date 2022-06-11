@@ -1,0 +1,14 @@
+
+.click{
+    color:white;
+    background-color: pink;
+    border: 1px solid pink;
+    text-align: center;
+    width:180px;
+}
+.price{
+    border: 1px solid blue;
+    width:100px;
+    color:white;
+    background-color: rgb(54, 150, 205);
+}
